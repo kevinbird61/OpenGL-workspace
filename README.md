@@ -3,6 +3,7 @@ Experiment and Practice on openGL .
 
 ## How to build linux openGL environment
 1. install your GPU driver.
+
 ⋅⋅* If using virtual machine , please type those in terminal to install mesa opengl : 
 ⋅⋅* `sudo apt-get(or -fast) install libgl1-mesa-dev`
 2. install necessary package.
